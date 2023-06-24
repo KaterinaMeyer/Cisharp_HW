@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\bin\Debug\net6.0\Exp005_lastDig.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\bin\Debug\net6.0\Exp005_lastDig.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\bin\Debug\net6.0\Exp005_lastDig.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\bin\Debug\net6.0\Exp005_lastDig.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\bin\Debug\net6.0\Exp005_lastDig.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\refint\Exp005_lastDig.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\Exp005_lastDig.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp005_lastDig\obj\Debug\net6.0\ref\Exp005_lastDig.dll
