@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\bin\Debug\net6.0\Exp002_max3.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\bin\Debug\net6.0\Exp002_max3.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\bin\Debug\net6.0\Exp002_max3.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\bin\Debug\net6.0\Exp002_max3.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\bin\Debug\net6.0\Exp002_max3.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\refint\Exp002_max3.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\Exp002_max3.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp002_max3\obj\Debug\net6.0\ref\Exp002_max3.dll
