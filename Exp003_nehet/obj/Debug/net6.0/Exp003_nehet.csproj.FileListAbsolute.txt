@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\bin\Debug\net6.0\Exp003_nehet.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\bin\Debug\net6.0\Exp003_nehet.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\bin\Debug\net6.0\Exp003_nehet.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\bin\Debug\net6.0\Exp003_nehet.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\bin\Debug\net6.0\Exp003_nehet.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\refint\Exp003_nehet.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\Exp003_nehet.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp003_nehet\obj\Debug\net6.0\ref\Exp003_nehet.dll
