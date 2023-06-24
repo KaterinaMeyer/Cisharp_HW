@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\bin\Debug\net6.0\Exp004_nechetN.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\bin\Debug\net6.0\Exp004_nechetN.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\bin\Debug\net6.0\Exp004_nechetN.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\bin\Debug\net6.0\Exp004_nechetN.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\bin\Debug\net6.0\Exp004_nechetN.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\refint\Exp004_nechetN.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\Exp004_nechetN.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem1\Exp004_nechetN\obj\Debug\net6.0\ref\Exp004_nechetN.dll
