@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "sem1/1.0.0": {
+      "Exp001-2/1.0.0": {
         "runtime": {
-          "sem1.dll": {}
+          "Exp001-2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "sem1/1.0.0": {
+    "Exp001-2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
